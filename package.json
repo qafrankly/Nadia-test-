@@ -2,11 +2,11 @@
 	"thumbnail": "https://wnow-modules.s3.amazonaws.com/icon_stroke_news_articlelist.svg",
 	"tag": "qa",
 	"affiliates": ["wnow"],
-	"propTypes": {
-		"title": "nadiatitle",
-		"layout": "nadialayout"
 	},
 	"components": [{
+		"propTypes": {
+		"title": "nadiatitle",
+		"layout": "nadialayout"}
 				"id": "qafrankly/Nadia-test-",
 				"affiliates": [
 					"wnow"
